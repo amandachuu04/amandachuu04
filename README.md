@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello there, I’m **Amanda**! 🌸👋🏼
 
-<!--
-**amandachuu04/amandachuu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr style="border:2px solid #FFC0CB;" />
 
-Here are some ideas to get you started:
+## ✨ About Me ✨
+ 👩‍💻 Curious coder with a passion for blending tech and design.<br>
+ 📚 Studying CS + Design Thinking, diving into web apps, UX/UI, and creative problem-solving.<br>
+ 🛠️ Currently building cool projects and learning something new every day.<br>
+ 📍 Based in the DMV area | Always down to collaborate and create!<br>
+ 🤝 Open to collaborations & shared adventures!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr style="border:2px solid #FFC0CB;" />
+
+## 🌟 Let’s Connect 🌟
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amandaachu) [![Gmail](https://img.shields.io/badge/Gmail-FFC0CB?style=for-the-badge&logo=gmail&logoColor=black)](mailto:amandaachuu@gmail.com)
+
+<hr style="border:2px solid #FFC0CB;" />
+
+## 💻 Tech Stack 🛠️
+![Python](https://img.shields.io/badge/Python-FFC0CB?style=for-the-badge)  ![Java](https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge)  ![C](https://img.shields.io/badge/C-FFC0CB?style=for-the-badge)  ![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=for-the-badge)  ![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge)  ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-FFC0CB?style=for-the-badge) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-FFC0CB?style=for-the-badge)  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-FFC0CB?style=for-the-badge) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-FFC0CB?style=for-the-badge)  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FFC0CB?style=for-the-badge)  ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-FFC0CB?style=for-the-badge)  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FFC0CB?style=for-the-badge)  ![Figma](https://img.shields.io/badge/Figma-FFC0CB?style=for-the-badge) ![Framer](https://img.shields.io/badge/Framer-FFC0CB?style=for-the-badge) ![Canva](https://img.shields.io/badge/Canva-FFC0CB?style=for-the-badge)  
+  
+
+<hr style="border:2px solid #FFC0CB;" />
+
+## 📊 GitHub Sparkles ✨
+<img src="https://github-readme-stats.vercel.app/api?username=bobabear&hide_border=true&bg_color=FFC0CB&title_color=000000&text_color=000000" alt="GitHub Stats" width="48%" />  
+<p> 
+ <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobabear&layout=compact&theme=dark"
+    alt="Most Used Languages"
+  />
+</p>
+
+<hr style="border:2px solid #FFC0CB;" />
+
+<p align="center">
+  🌺🌺 Thanks for visiting! 🌺🌺
+</p>
