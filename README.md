@@ -23,11 +23,16 @@
 <hr style="border:2px solid #FFC0CB;" />
 
 ## 📊 GitHub Sparkles ✨
-<img src="https://github-readme-stats.vercel.app/api?username=bobabear&hide_border=true&bg_color=FFC0CB&title_color=000000&text_color=000000" alt="GitHub Stats" width="48%" />  
-<p> 
- <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobabear&layout=compact&theme=dark"
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=amandachuu04&hide_border=true&bg_color=FFC0CB&title_color=000000&text_color=000000"
+    alt="GitHub Stats"
+    width="45%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandachuu04&layout=compact&theme=dracula"
     alt="Most Used Languages"
+    width="35.5%"
   />
 </p>
 
