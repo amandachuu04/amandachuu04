@@ -1,4 +1,5 @@
 # Hello there, I’m **Amanda**! 🌸👋🏼
+[![Profile Views](https://komarev.com/ghpvc/?username=amandachuu04&style=flat&color=FFC0CB)](https://github.com/amandachuu04)
 
 <hr style="border:2px solid #FFC0CB;" />
 
